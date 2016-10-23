@@ -11,10 +11,10 @@ public class ScheduleListController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		//String code = requeste
+		//String code = requeste test
 		//
 		//
-		//test 111
+
 	}
 
 }
