@@ -14,7 +14,7 @@ public class ScheduleListController extends HttpServlet {
 		//String code = requeste
 		//
 		//
-		//
+		//test 
 	}
 
 }
